@@ -74,3 +74,5 @@ This repo comprises the learnings of a 7-day long learning-by-doing sessions hel
 ### Session 2:
     - Task1: Implemented an MLP network to read the time from an analog clock image    
     - Task2: Implemented a CNN to read the time from an analog clock image
+# Acknowledgement
+Credit: The main content of the Jupyter notebooks was originally created by the dedicated volunteers of CVIT workshop, 2023, IIIT-H. I sincerely appreciate their effort and contribution to the AI community.
